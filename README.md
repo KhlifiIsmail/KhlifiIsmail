@@ -1,51 +1,57 @@
-# Ismail Khlifi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
 
-**ML Engineer & Full-Stack Developer. Tunis.**
+<h1 align="center">Ismail Khlifi</h1>
+<h3 align="center">ML Engineer & Full-Stack Developer</h3>
 
-I build AI systems that ship — LLM applications, computer vision pipelines, predictive models. My work sits at the intersection of machine learning research and production-grade software.
+<p align="center">
+  <a href="mailto:ismail.khliffi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ismail-khlifi-72999023a">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ikhlif.me">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+</p>
 
----
+<br>
 
-### Focus
+<p align="center">
+I build AI systems — LLM applications, computer vision pipelines, and predictive models.<br>
+Currently focused on RAG architectures, Vision Transformers, and production ML.
+</p>
 
-**Machine Learning** — Deep learning architectures, Vision Transformers, time-series forecasting, NLP pipelines. PyTorch and TensorFlow in production.
+<br>
 
-**LLM Engineering** — Building with GPT-4, LangChain, vector databases (ChromaDB), RAG systems, and Groq for inference optimization.
+<h2 align="center">Stack</h2>
 
-**Full-Stack** — Next.js, Django, PostgreSQL. Because ML models are worthless without interfaces and infrastructure.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker&theme=dark" />
+</p>
 
----
+<br>
 
-### Now
+<h2 align="center">Projects</h2>
 
-Building **DevLog** — an AI system that ingests GitHub activity and generates narrative documentation using LangChain, GPT-4, and semantic search over ChromaDB.
+<p align="center">
+  <a href="https://github.com/KhlifiIsmail/devlog-frontend">
+    <img src="https://img.shields.io/badge/DevLog-AI_Dev_Journal-0d1117?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/KhlifiIsmail/Medical-Report-Generation-Based-on-Images">
+    <img src="https://img.shields.io/badge/Medical_AI-Vision_Transformers-0d1117?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/KhlifiIsmail/HireKit">
+    <img src="https://img.shields.io/badge/HireKit-Resume_Optimizer-0d1117?style=for-the-badge" />
+  </a>
+</p>
 
----
+<br>
 
-### Selected Work
-
-| Project | Description |
-|:--------|:------------|
-| [**DevLog**](https://github.com/KhlifiIsmail/devlog-frontend) | LLM-powered dev journal. RAG pipeline with LangChain + ChromaDB + GPT-4 |
-| [**Medical Report Gen**](https://github.com/KhlifiIsmail/Medical-Report-Generation-Based-on-Images) | Automated radiology reports from chest X-rays using Vision Transformers |
-| [**HireKit**](https://github.com/KhlifiIsmail/HireKit) | AI resume optimizer — 95% ATS pass rate. Groq inference + Next.js |
-| [**Campaign ML**](https://github.com/KhlifiIsmail) | Predictive models for ad performance — regression, clustering, time-series (80%+ accuracy) |
-
----
-
-### Stack
-
-```
-ML/AI          PyTorch · TensorFlow · Scikit-learn · LangChain · Groq · OpenAI
-Deep Learning  Vision Transformers · CNNs · Sequence Models
-Data           Pandas · NumPy · Feature Engineering · ChromaDB
-Backend        Django · Express · PostgreSQL · Redis · Celery
-Frontend       Next.js · React · TypeScript
-Ops            Docker · CI/CD · Linux
-```
-
----
-
-[ismail.khliffi@gmail.com](mailto:ismail.khliffi@gmail.com) · [LinkedIn](https://linkedin.com/in/ismail-khlifi-72999023a) · [Portfolio](https://ikhlif.me)
-
-<sub>Engineering @ ESSAI · Open to ML/AI roles</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"/>
