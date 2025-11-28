@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/ismail-khlifi-72999023a">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ikhlif.me">
+  <a href="https://dev.ikhlif.me">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
