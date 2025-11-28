@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/ismail-khlifi-72999023a">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://ikhlif.me">
+  <a href="https://dev.ikhlif.me">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=FF7139" />
   </a>
 </p>
