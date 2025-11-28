@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/KhlifiIsmail">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Ismail+Khlifi;ML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Ismail+Khlifi;ML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
