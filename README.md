@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/KhlifiIsmail">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Ismail+Khlifi;Software+Engineer+%7C+AI+%7C+Full-Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ismail+Khlifi;Software+Engineer;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.ikhlifi.engineer">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-www.ikhlifi.engineer-58A6FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-www.ikhlifi.engineer-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -18,13 +18,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://www.ikhlifi.engineer">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" />
   </a>
 </p>
 
 ---
 
-# 👋 About Me
+## About Me
 
 I'm a software engineer focused on building AI-powered and full-stack applications.
 
@@ -32,17 +32,23 @@ I enjoy designing scalable backend services, modern web applications, and intell
 
 My recent work includes:
 
-- 🤖 LLM-powered workflows
-- 🧠 AI evaluation & automation
-- 🌐 Full-stack web applications
-- ⚡ REST APIs & backend services
-- 🚀 Production-ready software
+- LLM-powered workflows
+- AI evaluation & automation
+- Full-stack web applications
+- REST APIs & backend services
+- Production-ready software
 
-### 🌐 Portfolio
+---
 
-**👉 https://www.ikhlifi.engineer**
+## Portfolio
 
-There you'll find:
+<p align="center">
+  <a href="https://www.ikhlifi.engineer">
+    <img src="https://img.shields.io/badge/Visit-www.ikhlifi.engineer-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+The portfolio contains:
 
 - Featured projects
 - Technical case studies
@@ -52,7 +58,7 @@ There you'll find:
 
 ---
 
-# ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
@@ -72,7 +78,7 @@ There you'll find:
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/KhlifiIsmail/devlog-frontend">
@@ -89,13 +95,14 @@ There you'll find:
 </p>
 
 <p align="center">
-  <b>More projects and detailed write-ups:</b><br>
-  <a href="https://www.ikhlifi.engineer">www.ikhlifi.engineer</a>
+  <a href="https://www.ikhlifi.engineer">
+    <img src="https://img.shields.io/badge/View_More_Projects-www.ikhlifi.engineer-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhlifiIsmail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
