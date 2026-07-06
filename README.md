@@ -1,59 +1,81 @@
 <p align="center">
   <a href="https://github.com/KhlifiIsmail">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Ismail+Khlifi;ML+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Ismail+Khlifi;Software+Engineer+%7C+AI+%7C+Full-Stack" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:ismail.khliffi@gmail.com">
+  <a href="https://www.ikhlifi.engineer">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-www.ikhlifi.engineer-58A6FF?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:ikhlifi666@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://linkedin.com/in/ismail-khlifi-72999023a">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://dev.ikhlif.me">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=FF7139" />
+  <a href="https://www.ikhlifi.engineer">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=firefox&logoColor=58A6FF" />
   </a>
 </p>
 
-<br>
+---
 
-<p align="center">
-Building AI systems — LLMs, computer vision, predictive models.<br>
-Focused on RAG architectures, Vision Transformers, and production ML.
-</p>
+## 👋 About Me
 
-<br>
+Software engineer focused on building AI-powered and full-stack applications.
 
-<h3 align="center">Stack</h3>
+I enjoy designing scalable backend services, modern web applications, and intelligent systems using **Python, FastAPI, Next.js, React, TypeScript, PostgreSQL, Docker, and AI frameworks**. My recent work includes LLM-powered workflows, AI evaluation systems, automation, and production-ready software.
+
+🌐 **Portfolio:** **https://www.ikhlifi.engineer**
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind&theme=dark" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,postgres,redis,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,redis,docker&theme=dark" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&theme=dark" />
+</p>
 
-<h3 align="center">Projects</h3>
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/KhlifiIsmail/devlog-frontend">
-    <img src="https://img.shields.io/badge/DevLog-AI_Dev_Journal-0d1117?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DevLog-AI_Developer_Journal-0d1117?style=for-the-badge" />
   </a>
+
+  <a href="https://github.com/KhlifiIsmail/HireKit">
+    <img src="https://img.shields.io/badge/HireKit-AI_Resume_Optimizer-0d1117?style=for-the-badge" />
+  </a>
+
   <a href="https://github.com/KhlifiIsmail/Medical-Report-Generation-Based-on-Images">
     <img src="https://img.shields.io/badge/Medical_AI-Vision_Transformers-0d1117?style=for-the-badge" />
   </a>
-  <a href="https://github.com/KhlifiIsmail/HireKit">
-    <img src="https://img.shields.io/badge/HireKit-Resume_Optimizer-0d1117?style=for-the-badge" />
-  </a>
 </p>
 
-<br>
+<p align="center">
+  <b>More projects, experience, and case studies:</b><br>
+  <a href="https://www.ikhlifi.engineer">www.ikhlifi.engineer</a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhlifiIsmail&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
